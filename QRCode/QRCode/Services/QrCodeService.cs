@@ -7,8 +7,7 @@ namespace QRCode.Services
         public byte[] GenerateLocationQr()
         {
             // Google Maps URL
-            //string locationUrl = $"https://www.google.com/maps?q={latitude},{longitude}";
-            string locationUrl = "https://maps.app.goo.gl/nWVuVQtf9pev8Jmv7";
+            string locationUrl = "//Add the URL - Need to open via QR Code";
 
             // Generate QR
             QRCodeGenerator qrGenerator = new QRCodeGenerator();

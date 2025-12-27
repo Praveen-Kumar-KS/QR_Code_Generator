@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/QRCode/.vs
+/QRCode/QRCode/bin
+/QRCode/QRCode/obj
